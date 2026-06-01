@@ -1,2 +1,8 @@
 {
+  "users": {
+    "Arvi": {
+      "password": "1234",
+      "data": {}
+    }
+  }
 }
