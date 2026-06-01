@@ -24,7 +24,9 @@
     },
     "Dhivya": {
       "password": "Mommysgirl@123",
-      "data": {}
+      "data": {
+        "1": 64
+      }
     }
   }
 }
