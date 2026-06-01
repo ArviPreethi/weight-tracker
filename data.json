@@ -2,10 +2,7 @@
   "users": {
     "Arvi": {
       "password": "1234",
-      "data": {
-        "1": 75,
-        "2": 74
-      }
+      "data": {}
     },
     "Pree": {
       "password": "1234",
